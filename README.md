@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **MERN Stack, AI/ML, IoT & ASP.NET Core**
 - 💻 Interested in **Machine Learning, Web Development, and IoT Applications**
 - 🎯 Career Objective: *Committed and efficient in my work, aiming to enhance the growth of the organization by improving and applying my competency at work*
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **balachandrankk.22msc@kongu.edu**
 
 ---
 
